@@ -1,6 +1,6 @@
 Package: com.level3tjg.alwaysshowmediacontrols
 Name: AlwaysShowMediaControls
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Always show lockscreen media controls
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.alwaysshowmediacontrols
